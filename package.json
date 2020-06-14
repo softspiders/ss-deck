@@ -1,0 +1,20 @@
+{
+  "name": "ca-on-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start-deck": "mdx-deck deck/ru/deck.mdx",
+    "build": "mdx-deck build deck/ru/deck.mdx"
+  },
+  "devDependencies": {
+    "code-surfer": "3.1.1",
+    "mdx-deck": "3.0.10"
+  },
+  "keywords": [
+    "clean-architecture",
+    "client",
+    "frontend"
+  ],
+  "author": "https://github.com/AlexanderLapygin",
+  "license": "MIT"
+}
