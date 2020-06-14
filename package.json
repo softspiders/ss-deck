@@ -1,5 +1,5 @@
 {
-  "name": "ca-on-frontend",
+  "name": "ss-deck",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,9 +11,9 @@
     "mdx-deck": "3.0.10"
   },
   "keywords": [
-    "clean-architecture",
-    "client",
-    "frontend"
+    "code-surfer",
+    "mdx-deck",
+    "ss-deck"
   ],
   "author": "https://github.com/AlexanderLapygin",
   "license": "MIT"

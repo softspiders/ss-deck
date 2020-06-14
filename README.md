@@ -4,24 +4,21 @@
     </a>
 </div>
 
-## Clean Architecture on Frontend
-
-UNDER DEVELOPMENT
+## Template for presentations on mdx-deck and code-surfer
 
 ---
 
 ## Feature tags
-- clean-architecture
-- client
-- frontend
-- rest
+
+- mdx-deck
 - ss-deck
+- template
 
 ---
 
 ## Children
 
-[**+ counter-app, dip, jest, jest-fetch-mock, react, react-hooks, react-testing-library, srp, starter, test-coverage, typescript, unit-test, use-presenter**](https://github.com/softspiders/ca-react-rest-api-starter)
+[**+ ca, dip, typescript, starter**](https://github.com/softspiders/dip-in-ca-deck)
 
 ---
 ## Author
